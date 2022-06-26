@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../responsive menu"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "wheather_app"
+	}
+}
